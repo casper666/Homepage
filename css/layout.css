@@ -419,10 +419,10 @@ ul#nav li.current a {
     -webkit-animation: Cplusplus 2s ease;
 }
 
-.Python {
-    width: 50%;
-    -moz-animation: Python 2s ease;
-    -webkit-animation: Python 2s ease;
+.Database {
+    width: 70%;
+    -moz-animation: Database 2s ease;
+    -webkit-animation: Database 2s ease;
 }
 
 @-moz-keyframes Java {
@@ -470,12 +470,12 @@ ul#nav li.current a {
     }
 }
 
-@-moz-keyframes Python {
+@-moz-keyframes Database {
     0% {
         width: 0px;
     }
     100% {
-        width: 50%;
+        width: 70%;
     }
 }
 
@@ -524,12 +524,12 @@ ul#nav li.current a {
     }
 }
 
-@-webkit-keyframes Python {
+@-webkit-keyframes Database {
     0% {
         width: 0px;
     }
     100% {
-        width: 50%;
+        width: 70%;
     }
 }
 
@@ -538,7 +538,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-    background: #ebeeee;
+    background: #EBEEEE;
     padding-top: 90px;
     padding-bottom: 60px;
 }
